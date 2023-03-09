@@ -10,6 +10,6 @@ dan aspek ongkos produksi yang memiliki nilai terbesar menggunakan PostGreSQL 14
 Input yang diberikan berada pada file proses data padi.sql dan ongkos produksi.sql secara berurutan.
 
 Terakhir dengan csv compare dan Indonesia summary, kedua data ini kemudian diproses pada PowerBI dalam file Visual pertanian.pbix
-dengan bantuan data urut1.csv untuk mengurutkan label diagram.
+dengan bantuan file urut1.csv untuk mengurutkan label diagram.
 
-Selamat membaca
+Selamat membaca.
