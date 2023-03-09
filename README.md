@@ -5,7 +5,7 @@ This project attempts to explain about farming condition in Indonesia by looking
 
 All data is taken from bps.go.id that was straight donwloaded as Excel workbook. And using it's csv format of fullpadi and ongkos,
 attempting to find the province with most produced rice in 2022 and which production cost with the biggest cost using PostGreSQL14.
-The input is given in proses data padi.sql and ongkos produksi.sql in the particular order.
+The input is given in proses data padi.sql and ongkos produksi.sql in the particular order. Results are personally written at Hasil.txt
 
 Lastly using file csv of compare and Indonesia summary, these data then processed in PowerBI in file of Visual pertanian.pbix with the help of urut1.csv
 to order the legend in the pie chart.
